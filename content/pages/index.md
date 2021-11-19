@@ -50,13 +50,8 @@ sections:
         title_align: left
         content: >
           Full-service SEO is our most comprehensive offering. We can optimise
-          your website based on your specific requirements and we are also able
-          to offer a packaged full service deal that entails the following
-
-
-          *   ### On-page SEO### Off-page SEO / Link building### Content SEO /
-          Content audit / Content stratgey / SEO content writing### Technical
-          SEO
+          your website based on your specific requirements and offer ***on-page
+          SEO, off-page SEO, Content SEO and technical SEO.***
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
