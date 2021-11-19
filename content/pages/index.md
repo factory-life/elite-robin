@@ -24,9 +24,10 @@ sections:
     grid_items:
       - title: SEO strategies
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: >
+          Our SEO strategies are crafted to meet each businesses unique needs.
+          No two strategies are the exact same. We design SEO strategies that
+          are aligned with your businesses overall goals and objectives.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
