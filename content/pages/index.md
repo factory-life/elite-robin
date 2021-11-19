@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Search Engine Optimisation agency South Africa
-    subtitle: Conference for Creative People
+    subtitle: >-
+      Our SEO company will help you increase your online visibility and
+      presence. We provide top SEO for companies looking to gain a competetive
+      advantage.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
