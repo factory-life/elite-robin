@@ -41,7 +41,6 @@ sections:
           audits for any interested company so please get in touch with us or
           provide your details via email and we will do an SEO audit for you.
         content_align: left
-        image: images/2-tracks.svg
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
