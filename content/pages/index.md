@@ -35,7 +35,12 @@ sections:
         image_width: twenty-five
       - title: SEO audits
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: >
+          If you are seriously considering SEO then we commend you as we believe
+          that it is the correct approach for a business that values holding a
+          dominant position in the online environment. We offer free basic SEO
+          audits for any interested company so please get in touch with us or
+          provide your details via email and we will do an SEO audit for you.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
