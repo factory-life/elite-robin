@@ -10,7 +10,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Get Your Ticket Today!
+      - label: OPTIMISE
         url: /about
         style: primary
     align: center
