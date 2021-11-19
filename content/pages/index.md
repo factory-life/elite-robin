@@ -125,7 +125,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/13.jpg
-    background_image_opacity: 50
+    background_image_opacity: 100
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
