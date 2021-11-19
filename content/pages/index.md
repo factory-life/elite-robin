@@ -29,7 +29,6 @@ sections:
           No two strategies are the exact same. We design SEO strategies that
           are aligned with your businesses overall goals and objectives.
         content_align: left
-        image: images/2-days.svg
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
