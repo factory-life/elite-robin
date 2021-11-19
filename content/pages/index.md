@@ -13,7 +13,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/8.jpg
+    background_image: /images/36.jpg
     background_image_opacity: 100
     background_image_size: cover
   - type: grid_section
