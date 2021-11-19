@@ -53,7 +53,7 @@ sections:
           your website based on your specific requirements and offer ***on-page
           SEO, off-page SEO, Content SEO and technical SEO.***
         content_align: left
-        image: images/20-speakers.svg
+        image: /images/SEARCH ENGINE OPTIMIZATION.png
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
