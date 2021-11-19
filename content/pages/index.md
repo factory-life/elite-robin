@@ -63,9 +63,15 @@ sections:
   - type: features_section
     title: Results driven SEO
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          We look to provide measurable and achievable results which are
+          realistic and within the scope of ethical tactics that won't put your
+          website at risk of a Google penalty. We specialise in a variety of
+          different areas of SEO especially Content SEO writing which has become
+          a very important ranking factor in Google's algorithm. We will work
+          with you to decide on the best structure for your website's SEO
+          strategy so that we are able to keep your SEO in line with your
+          businesses overall goals and objectives. 
         align: center
     feature_padding_vert: medium
     align: center
