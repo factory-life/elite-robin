@@ -84,7 +84,7 @@ sections:
           ipsum sed sodales. Integer finibus scelerisque leo et semper.
         image: /images/Acrylic 1.jpg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: High-quality talks from field experts followed by Q&As
         content: >-
