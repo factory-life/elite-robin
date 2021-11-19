@@ -7,7 +7,8 @@ sections:
       Our SEO company will help you increase your online visibility and
       presence. We provide top SEO for companies looking to gain a competetive
       advantage.
-    content: '**April 14 - 16, 2021**'
+    content: |
+      ****
     actions:
       - label: Get Your Ticket Today!
         url: /about
