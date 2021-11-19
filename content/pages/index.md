@@ -93,7 +93,7 @@ sections:
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
         image: /images/seo services cape town.jpg
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: right
         media_width: sixty
       - title: Technology Discussion Rooms for All Attendees
         content: >-
